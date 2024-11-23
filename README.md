@@ -54,7 +54,9 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
 ## 🚀 Como Executar
 
 ### Pré-requisitos
-- Compilador C++ (Ex: GCC ou Clang)
+- **Sistema Operacional:** Windows
+- **Compilador:** Visual C++ (Microsoft Visual Studio)
+- **Biblioteca:** `windows.h`
 
 ### Passos
 1. Clone o repositório:
