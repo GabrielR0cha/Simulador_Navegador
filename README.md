@@ -38,7 +38,7 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
 #### Lista Duplamente Encadeada
 - Representa as páginas abertas no navegador.
 - Cada nó contém:
-  - **Título** e **URL** da página.
+  - **Título** da página.
   - Ponteiros para os **nós anterior e próximo**.
 
 #### Pilha
