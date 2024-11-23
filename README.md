@@ -36,9 +36,6 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
 
 ### Arquivos Principais:
 - **main.cpp**: Contém a lógica principal do programa.
-- **ListaDuplamenteEncadeada.hpp**: Implementa a estrutura de dados para navegação.
-- **Pilha.hpp**: Gerencia o histórico de páginas.
-- **Fila.hpp**: Controla as páginas favoritas.
 
 ### Estrutura de Dados:
 #### Lista Duplamente Encadeada
@@ -67,3 +64,14 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
    ```bash
    git clone https://github.com/seu-usuario/navegador-simulacao.git
    cd navegador-simulacao
+     ```
+      
+2. Compile o programa:
+  ```bash
+    g++ main.cpp -o navegador
+  ```
+
+3. Execute o programa:
+  ```bash
+    ./navegador
+```
