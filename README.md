@@ -61,8 +61,8 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
 ### Passos
 1. Clone o repositório:
 ```bash
-  git clone https://github.com/seu-usuario/navegador-simulacao.git
-  cd navegador-simulacao
+  git clone https://github.com/GabrielR0cha/Simulador_Navegador.git
+  cd Simulador_Navegador
 ```
       
 2. Compile o programa:
