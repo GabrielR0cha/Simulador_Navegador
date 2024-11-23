@@ -24,11 +24,8 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
 - **Recuperar**: Move favoritos de volta para as páginas principais.
 
 ### 🕒 Tempo e Complexidade (Big-O)
-- Cada funcionalidade foi projetada com eficiência em mente, e o tempo de execução é calculado:
-  - **Adicionar Página**: \( O(1) \)
-  - **Remover Página**: \( O(1) \)
-  - **Buscar Página**: \( O(n) \)
-  - **Listar Páginas**: \( O(n) \)
+- Cada funcionalidade foi projetada com eficiência em mente, e o tempo de execução é calculado
+- Além de demonstrar o tempo em notação Big O.
 
 ---
 
@@ -75,3 +72,5 @@ Este projeto simula o funcionamento de um navegador utilizando **listas encadead
   ```bash
     ./navegador
 ```
+---
+
